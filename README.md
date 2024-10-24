@@ -1,6 +1,13 @@
 # Calculator MVC
 This is a simple calculator application implemented using the MVC (Model-View-Controller) pattern.
 
+## There are two versions of this Code:
+- https://github.com/Shady-Max/MVC_Assignment/tree/Final-Result
+- https://github.com/Shady-Max/MVC_Assignment/tree/Final-Result-With_Automation
+<br> <br>
+- In first version it's required to specify operations
+- In second version operations can be pulled from `CalculatorModel`
+
 ## Features
 - Supports addition, subtraction, multiplication, and division.
 - Handles division by zero with appropriate error messages.
