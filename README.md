@@ -5,6 +5,7 @@ This is a simple calculator application implemented using the MVC (Model-View-Co
 - Supports addition, subtraction, multiplication, and division.
 - Handles division by zero with appropriate error messages.
 - Displays results and error messages in a user-friendly way.
+- Automatically gets all methods from CalculatorModel without passing operations
 
 ## How to run
 - Clone the repository.
