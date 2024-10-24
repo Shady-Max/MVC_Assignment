@@ -16,7 +16,7 @@ public class CalculatorModel {
 
     public double divide (double a, double b) {
         if (b == 0) {
-            throw new ArithmeticException("Ошибка: деление на ноль");
+            throw new ArithmeticException("Error: division by zero");
         }
         return a / b;
     }
